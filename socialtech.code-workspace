@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../socialtech"
+		},
+		{
+			"path": "../socialtech-kadai_012"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../kadai_013"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "socialtech"
+	}
+}
